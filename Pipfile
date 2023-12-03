@@ -8,6 +8,8 @@ ipykernel = "*"
 notebook = "*"
 pandas = "*"
 openai = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
